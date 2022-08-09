@@ -101,3 +101,6 @@ p {
 .about-section-content {
   margin: 30px;
 }
+.my-photo {
+  border-radius: 20px;
+}
